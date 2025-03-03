@@ -1,6 +1,6 @@
-CS-250: Software Development Lifecycle
+**CS-250: Software Development Lifecycle**
 
-8-2 Journal: Portfolio Item
+**8-2 Journal: Portfolio Item**
 
 **1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
